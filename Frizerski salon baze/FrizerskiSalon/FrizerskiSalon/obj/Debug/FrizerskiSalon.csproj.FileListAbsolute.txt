@@ -1,0 +1,12 @@
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\bin\Debug\FrizerskiSalon.exe.config
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\bin\Debug\FrizerskiSalon.exe
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\bin\Debug\FrizerskiSalon.pdb
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.Form1.resources
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.Properties.Resources.resources
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.exe
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.pdb
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.Form2.resources
+C:\Users\Win10\source\repos\FrizerskiSalon\FrizerskiSalon\obj\Debug\FrizerskiSalon.Form3.resources
